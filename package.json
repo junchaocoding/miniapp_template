@@ -1,0 +1,27 @@
+{
+	"name": "miniapp_template",
+	"version": "1.0.0",
+	"description": "微信小程序templete",
+	"versionDesc": "初始化小程序",
+	"cliPath": "/Applications/wechatwebdevtools.app/Contents/MacOS/cli",
+	"main": "app.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/junchaocoding/miniapp_template.git.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/junchaocoding/miniapp_template.git/issues"
+	},
+	"homepage": "https://github.com/junchaocoding/miniapp_template.git#readme",
+	"devDependencies": {
+		"jest": "^26.4.2",
+		"miniapp-dev-cli": "^2.2.0"
+	},
+	"dependencies": {}
+}
